@@ -9,10 +9,10 @@
 ## 👨‍💻 Sobre mim / About me
 
 **🇧🇷 PT:**
-Estudante de Engenharia de Software na FIAP e Técnico em Programação de Jogos Digitais. Trabalho na @happmobi com foco em backend e mobile. Meu objetivo é me tornar um desenvolvedor fullstack sólido, dominando desde APIs até interfaces.
+Estudante de Engenharia de Software na FIAP e Técnico em Programação de Jogos Digitais. Trabalho na @happmobi com foco em backend. Meu objetivo é me tornar um desenvolvedor fullstack sólido, dominando desde APIs até interfaces.
 
 **🇺🇸 EN:**
-Software Engineering student at FIAP and Digital Game Programming Technician. I work at @happmobi focused on backend and mobile development. My goal is to become a solid fullstack developer, mastering everything from APIs to interfaces.
+Software Engineering student at FIAP and Digital Game Programming Technician. I work at @happmobi focused on backend. My goal is to become a solid fullstack developer, mastering everything from APIs to interfaces.
 
 | | |
 |---|---|
@@ -39,11 +39,10 @@ Software Engineering student at FIAP and Digital Game Programming Technician. I 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Mobile & Game**
+**Mobile**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 **Database & Cloud**
 
@@ -55,7 +54,6 @@ Software Engineering student at FIAP and Digital Game Programming Technician. I 
 ## 📚 Aprendendo agora / Currently learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
@@ -75,5 +73,5 @@ Software Engineering student at FIAP and Digital Game Programming Technician. I 
 
 ## 📬 Contato / Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-masago-a0270426a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.masago@happmobi.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomasago)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masagoleo@gmail.com)
